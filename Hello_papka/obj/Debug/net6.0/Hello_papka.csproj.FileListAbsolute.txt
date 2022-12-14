@@ -1,0 +1,15 @@
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\bin\Debug\net6.0\Hello_papka.exe
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\bin\Debug\net6.0\Hello_papka.deps.json
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\bin\Debug\net6.0\Hello_papka.runtimeconfig.json
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\bin\Debug\net6.0\Hello_papka.dll
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\bin\Debug\net6.0\Hello_papka.pdb
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.csproj.AssemblyReference.cache
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.AssemblyInfoInputs.cache
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.AssemblyInfo.cs
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.csproj.CoreCompileInputs.cache
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.dll
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\refint\Hello_papka.dll
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.pdb
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\Hello_papka.genruntimeconfig.cache
+C:\Users\Yrchi\Desktop\Papka\Hello_papka\obj\Debug\net6.0\ref\Hello_papka.dll
